@@ -1,7 +1,7 @@
 # Mission-To-The-ParlaMentum-C++
 
 
-/*this mission created for show what am i know about:     C++    in the other i will show you what am i know about Java.                   Importent!!! I don't know why but when you still didn't join to the full program it's look strange, so just look from inside and this is should be ok :) */
+/*this mission created for show what am i know about:     C++    in the other i will show you what am i know about Java.                  Important!!! I don't know why but when you're still not joining the full program it seems weird, so just look from inside and it should be okay :)  */
 
 #include <iostream>
 using namespace std;
